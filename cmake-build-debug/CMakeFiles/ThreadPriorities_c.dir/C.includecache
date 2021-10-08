@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/etudiant/CLionProjects/ThreadPriorities.c/main.c
+stdio.h
+-
+stdlib.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+stdio.h
+-
+pthread.h
+-
+errno.h
+-
+sys/syscall.h
+-
+sys/resource.h
+-
+unistd.h
+-
+math.h
+-
+

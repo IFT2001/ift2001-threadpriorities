@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ThreadPriorities_c.dir/main.c.o  -o ThreadPriorities_c  -lpthread -lm 

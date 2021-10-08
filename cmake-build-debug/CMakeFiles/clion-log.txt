@@ -1,0 +1,4 @@
+/home/etudiant/clion-2020.3.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/etudiant/CLionProjects/ThreadPriorities.c
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/etudiant/CLionProjects/ThreadPriorities.c/cmake-build-debug

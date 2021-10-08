@@ -1,0 +1,3 @@
+/home/etudiant/CLionProjects/ThreadPriorities.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/etudiant/CLionProjects/ThreadPriorities.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/etudiant/CLionProjects/ThreadPriorities.c/cmake-build-debug/CMakeFiles/ThreadPriorities_c.dir
